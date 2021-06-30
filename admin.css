@@ -1,0 +1,20 @@
+li a .active {
+  background-color: rgba(200, 233, 15, 0.788);
+}
+
+.row .nav-link:hover {
+  background-color: rgba(200, 233, 15, 0.788);
+}
+
+.display-4 {
+  font-weight: bold;
+}
+
+.card_body_icon {
+  position: absolute;
+  z-index: 0;
+  top: 25px;
+  right: 4px;
+  opacity: 0.4;
+  font-size: 90px;
+}
